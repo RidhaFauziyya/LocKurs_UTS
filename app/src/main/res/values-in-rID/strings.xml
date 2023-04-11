@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocKurs</string>
+    <string name="title">LocKurs</string>
+    <string name="desc">LocKurs merupakan aplikasi yang menyediakan fitur untuk mencari lokasi pada peta dan memberikan informasi dari beberapa negara seperti informasi mata uang. Dengan LocKurs pengguna juga dapat melakukan konversi antar mata uang dari beberapa negara. Salah satu fitur utama dari aplikasi LocKurs adalah fitur dark theme yang dapat digunakan ketika ruangan dalam keadaan gelap.</string>
+    <string name="show_countries"><u>Tampilkan Negara</u></string>
+    <string name="show_less"><u>Tampilkan Lebih Sedikit</u></string>
+    <string name="change_languange">Ganti Bahasa</string>
+    <string name="capital_city">Ibu Kota</string>
+    <string name="country">Negara</string>
+    <string name="currency">Mata Uang</string>
+    <string name="indo">Indonesia</string>
+    <string name="us">Amerika Serikat</string>
+    <string name="uk">Britania Raya</string>
+    <string name="china">Cina</string>
+    <string name="sokor">Korea Selatan</string>
+    <string name="jpn">Jepang</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="show_on_map">Tampilkan di Peta</string>
+    <string name="rupiah">Rupiah</string>
+    <string name="dollar">Dollar</string>
+    <string name="pound">Poundsterling</string>
+    <string name="won">Won</string>
+    <string name="yen">Yen</string>
+    <string name="style">Mode Malam</string>
+    <string name="bath">Bath</string>
+    <string name="washington_d_c">Washington, D.C.</string>
+    <string name="show_maps">Tampilkan Peta</string>
+    <string name="search">Cari</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="bangkok">Bangkok</string>
+    <string name="thailand">Thailand</string>
+    <string name="seoul">Seoul</string>
+    <string name="london">London</string>
+    <string name="convert">Rubah</string>
+</resources>

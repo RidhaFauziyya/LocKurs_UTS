@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocKurs</string>
+    <string name="title">LocKurs</string>
+    <string name="desc">LocKurs는 지도에서 위치를 찾고 통화 정보와 같은 여러 국가의 정보를 제공하는 기능을 제공하는 애플리케이션입니다. LocKurs를 사용하면 여러 국가의 통화 간 변환도 가능합니다. LocKurs 앱의 주요 기능 중 하나는 방이 어두울 때 사용할 수 있는 어두운 테마 기능입니다</string>
+    <string name="show_countries"><u>쇼 국가</u></string>
+    <string name="show_less"><u>더 적게 표시</u></string>
+    <string name="change_languange">언어 변경</string>
+    <string name="capital_city">수도 도시</string>
+    <string name="country">국가</string>
+    <string name="currency">통화</string>
+    <string name="indo">인도네시아</string>
+    <string name="us">미국</string>
+    <string name="uk">영국</string>
+    <string name="sokor">대한민국</string>
+    <string name="china">중국</string>
+    <string name="jpn">일본</string>
+    <string name="jakarta">자카르타</string>
+    <string name="show_on_map">지도에서 보기</string>
+    <string name="rupiah">루피아</string>
+    <string name="convert">변환</string>
+    <string name="washington_d_c">워싱턴 D.C.</string>
+    <string name="style">야간 모드</string>
+    <string name="bath">목욕</string>
+    <string name="yen">엔</string>
+    <string name="pound">파운드 스털링</string>
+    <string name="won">원</string>
+    <string name="dollar">달러</string>
+    <string name="london">런던</string>
+    <string name="seoul">서울</string>
+    <string name="thailand">태국</string>
+    <string name="bangkok">방콕</string>
+    <string name="show_maps"><u>지도 표시</u></string>
+    <string name="tokyo">도쿄</string>
+    <string name="search">검색</string>
+</resources>

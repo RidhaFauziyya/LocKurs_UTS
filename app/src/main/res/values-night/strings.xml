@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">LocKurs</string>
+    <string name="title">LocKurs</string>
+    <string name="desc">LocKurs is an application that provides features to find locations on a map and provides information from several countries such as currency information. With LocKurs users can also convert between currencies from several countries. One of the main features of the LocKurs app is the dark theme feature that can be used when the room is dark.</string>
+    <string name="show_countries"><u>Show Countries</u></string>
+    <string name="show_less"><u>Show Less</u></string>
+    <string name="change_languange">Change Language</string>
+    <string name="capital_city">Capital City</string>
+    <string name="country">Country</string>
+    <string name="currency">Currency</string>
+    <string name="dot" translatable="false">: </string>
+    <string name="indo">Indonesian</string>
+    <string name="us">United States</string>
+    <string name="uk">United Kingdom</string>
+    <string name="sokor">South Korean</string>
+    <string name="china">China</string>
+    <string name="jpn">Japan</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="show_on_map">Show On Map</string>
+    <string name="rupiah">Rupiah</string>
+    <string name="convert">Convert</string>
+    <string name="dollar">Dollar</string>
+    <string name="pound">Poundsterling</string>
+    <string name="won">Won</string>
+    <string name="yen">Yen</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="bath">Bath</string>
+
+    <string name="style">Night Mode</string>
+    <string name="washington_d_c">Washington, D.C.</string>
+    <string name="title_activity_maps_us" translatable="false">MapsActivityUs</string>
+    <string name="london">London</string>
+    <string name="title_activity_maps_uk" translatable="false">MapsActivityUk</string>
+    <string name="title_activity_maps_sokor" translatable="false">MapsActivitySokor</string>
+    <string name="seoul">Seoul</string>
+    <string name="thailand">Thailand</string>
+    <string name="bangkok">Bangkok</string>
+    <string name="title_activity_maps_thai" translatable="false">MapsActivityThai</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="title_activity_maps_jpn" translatable="false">MapsActivityJpn</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <string name="in" translatable="false">In:</string>
+    <string name="search">Search</string>
+    <string name="show_maps">Show Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_maps_indo" translatable="false">MapsActivityIndo</string>
+    <string name="title_activity_maps_home" translatable="false">MapsActivityHome</string>
+
+</resources>
